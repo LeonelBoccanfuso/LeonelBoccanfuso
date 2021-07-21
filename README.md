@@ -9,23 +9,24 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 
-Habilidades que he adquirido en #soyHenry:
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NodeJS
-- React
-- Redux
-- Express
-- Sequelize
-- PostgreSQL
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
-- Trabajo en equipo
-- Scrum
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
-- Base de datos
+### Habilidades que he adquirido en #soyHenry:
+NodeJS |
+React |
+Redux |
+Express |
+Sequelize |
+PostgreSQL |
+Git |
+Trabajo en equipo |
+Scrum | 
+JavaScript |
+Base de datos
 
-<p align="left"> <img align="left" alt="LeonelBoccanfuso's profile stats" src="https://github-readme-stats.vercel.app/api?username=LeonelBoccanfuso&show_icons=true&hide_rank=true" alt="LeonelBoccanfuso" />
 
-<br>
-<br>
+### Mis stats:
+
+<p align="left"> <img align="left" alt="LeonelBoccanfuso" src="https://github-readme-stats.vercel.app/api?username=LeonelBoccanfuso&show_icons=true&hide_rank=true&hide_title=true" alt="LeonelBoccanfuso" />
+
 <br>
 <br>
 <br>
