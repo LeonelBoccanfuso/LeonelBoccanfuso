@@ -1,4 +1,4 @@
-# Hola, soy **[Leonel Boccanfuso](https://LeonelBoccanfuso.es)**! 👋
+# Hola, soy Leonel Boccanfuso! 👋
 ### Full Stack Web Developer 
   
 Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a aprender cosas nuevas, siempre respetando en los compañeros de equipo.
