@@ -5,22 +5,35 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 ![githubbadge](https://img.shields.io/github/followers/LeonelBoccanfuso?style=social)
-<a href="https://badges.pufler.dev/visits/LeonelBoccanfuso/LeonelBoccanfuso"> <img alt="LeonelBoccanfuso" src="https://badges.pufler.dev/visits/LeonelBoccanfuso/LeonelBoccanfuso"> </a>
+![](https://visitor-badge.glitch.me/badge?page_id=LeonelBoccanfuso.LeonelBoccanfuso)
 
 ---
 
 Habilidades que he adquirido en #soyHenry:
-- NodeJS
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NodeJS
 - React
 - Redux
 - Express
 - Sequelize
 - PostgreSQL
-- GitFlow
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
 - Trabajo en equipo
 - Scrum
-- JavaScript
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
 - Base de datos
+
+<br>
+<p align="left"> <img align="left" alt="LeonelBoccanfuso's profile stats" src="https://github-readme-stats.vercel.app/api?username=LeonelBoccanfuso&show_icons=true&hide_rank=true" alt="LeonelBoccanfuso" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 📫Contáctame:
    - ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Punkneloficial@gmail.com) Punkneloficial@gmail.com
