@@ -3,6 +3,8 @@
   
 Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a aprender cosas nuevas, siempre respetando en los compañeros de equipo.
 
+![githubbadge](https://img.shields.io/github/followers/LeonelBoccanfuso?style=social)
+
 Habilidades que he adquirido en #soyHenry:
 - NodeJS
 - React
@@ -16,10 +18,10 @@ Habilidades que he adquirido en #soyHenry:
 - JavaScript
 - Base de datos
 
-📫Contáctame:
-Email: Punkneloficial@gmail.com
-LinkedIn: https://www.linkedin.com/in/leonel-boccanfuso/
-Móvil: +54 0223 5136385
+### 📫Contáctame:
+   - Email: Punkneloficial@gmail.com
+   - [LinkedIn](https://www.linkedin.com/in/leonel-boccanfuso/)
+   - Móvil: +54 0223 5136385
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
