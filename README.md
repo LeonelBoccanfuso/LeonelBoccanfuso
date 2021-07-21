@@ -1,9 +1,13 @@
-### Hola, soy Leonel Boccanfuso
+# Hola, soy **[Leonel Boccanfuso](https://LeonelBoccanfuso.es)**! 👋
 ### Full Stack Web Developer 
   
 Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a aprender cosas nuevas, siempre respetando en los compañeros de equipo.
 
+---
 ![githubbadge](https://img.shields.io/github/followers/LeonelBoccanfuso?style=social)
+<a href="https://badges.pufler.dev/visits/LeonelBoccanfuso/LeonelBoccanfuso"> <img alt="LeonelBoccanfuso" src="https://badges.pufler.dev/visits/LeonelBoccanfuso/LeonelBoccanfuso"> </a>
+
+---
 
 Habilidades que he adquirido en #soyHenry:
 - NodeJS
@@ -19,8 +23,8 @@ Habilidades que he adquirido en #soyHenry:
 - Base de datos
 
 ### 📫Contáctame:
-   - Email: Punkneloficial@gmail.com
-   - [LinkedIn](https://www.linkedin.com/in/leonel-boccanfuso/)
+   - ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Punkneloficial@gmail.com) Punkneloficial@gmail.com
+   - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/leonel-boccanfuso/
    - Móvil: +54 0223 5136385
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
