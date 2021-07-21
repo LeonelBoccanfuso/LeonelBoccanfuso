@@ -5,6 +5,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 ![githubbadge](https://img.shields.io/github/followers/LeonelBoccanfuso?style=social)
+
 ---
 
 ### Habilidades que he adquirido en #soyHenry:
