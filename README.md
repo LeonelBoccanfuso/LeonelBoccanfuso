@@ -1,8 +1,15 @@
 ### Hola, soy Leonel Boccanfuso
-### Full Stack Developer 
+### Full Stack Web Developer 
+  
+Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a aprender cosas nuevas, siempre respetando en los compañeros de equipo.
 
-
-
+Habilidades que he adquirido en #soyHenry:
+- NodeJS
+- React
+- Redux
+- Express
+- Sequelize
+- PostgreSQL
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
