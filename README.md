@@ -10,6 +10,16 @@ Habilidades que he adquirido en #soyHenry:
 - Express
 - Sequelize
 - PostgreSQL
+- GitFlow
+- Trabajo en equipo
+- Scrum
+- JavaScript
+- Base de datos
+
+📫Contáctame:
+Email: Punkneloficial@gmail.com
+LinkedIn: https://www.linkedin.com/in/leonel-boccanfuso/
+Móvil: +54 0223 5136385
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
