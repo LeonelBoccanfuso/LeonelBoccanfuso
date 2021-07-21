@@ -8,7 +8,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 
-### Habilidades que he adquirido en #soyHenry:
+### Tecnologías que utilizo:
 NodeJS |
 React |
 Redux |
