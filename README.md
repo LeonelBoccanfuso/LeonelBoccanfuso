@@ -13,11 +13,11 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
   JavaScript/TypeScript
 
   Frameworks:
-    #Backend: 
+    ##Backend: 
     NodeJS Express
-    #Frentend: 
+    ##Frentend: 
     React Redux
-    #DataBase: 
+    ##DataBase: 
     Sequelize PostgreSQL
 
 ### 📫Contáctame:
