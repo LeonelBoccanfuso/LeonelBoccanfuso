@@ -9,19 +9,12 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
   Lenguajes:
   JavaScript/TypeScript
-  
-    
-NodeJS |
-React |
-Redux |
-Express |
-Sequelize |
-PostgreSQL |
-Git |
-Trabajo en equipo |
-Scrum | 
-JavaScript |
-Base de datos
+
+  Frameworks:
+    Git/Github
+    Backend: NodeJS Express
+    Frentend: React Redux
+    DataBase: Sequelize PostgreSQL
 
 ### 📫Contáctame:
    - ![Email Badge](https://img.shields.io/badge/E-mail) leoneldboccanfuso@hotmail.com
