@@ -13,7 +13,9 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
   JavaScript/TypeScript
 
   Frameworks:
+    
     Backend: NodeJS Express
+    
     Frentend: React Redux
     DataBase: Sequelize PostgreSQL
 
