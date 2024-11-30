@@ -13,6 +13,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 <div style="display:grid">
+	
 ### Conocimientos:
 
 <div align="center">
