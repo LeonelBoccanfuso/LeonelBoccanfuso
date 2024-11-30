@@ -12,7 +12,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
    - WhatsApp: https://wa.link/nmdkw1
 
 ---
-
+<div style="display:grid">
 ### Conocimientos:
 
 <div align="center">
@@ -52,7 +52,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
-
+</div>
 
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
