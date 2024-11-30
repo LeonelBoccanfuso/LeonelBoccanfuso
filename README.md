@@ -1,11 +1,16 @@
-# Hola, soy Leonel Boccanfuso! 👋
+# Hola, soy Leonel Boccanfuso
 ### Full Stack Web Developer 
   
 Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a aprender cosas nuevas, siempre respetando en los compañeros de equipo.
 
 ---
 
-### Tecnologías que utilizo:
+### Conocimientos:
+
+  Lenguajes:
+  JavaScript/TypeScript
+  
+    
 NodeJS |
 React |
 Redux |
