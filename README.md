@@ -7,11 +7,12 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ### Conocimientos:
 
+  Git/Github
+
   Lenguajes:
   JavaScript/TypeScript
 
   Frameworks:
-    Git/Github
     Backend: NodeJS Express
     Frentend: React Redux
     DataBase: Sequelize PostgreSQL
