@@ -17,7 +17,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
     DataBase: Sequelize PostgreSQL
 
 ### 📫Contáctame:
-   - ![dev.to badge](https://img.shields.io/badge/Email) leoneldboccanfuso@hotmail.com
+   - ![dev.to badge](https://img.shields.io/badge/Email-) leoneldboccanfuso@hotmail.com
    - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/leonel-boccanfuso/
    - Móvil: +54 0223 513-6385
    - WhatsApp: https://wa.link/nmdkw1
