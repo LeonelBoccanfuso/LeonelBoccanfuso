@@ -14,10 +14,12 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
   Frameworks:
     
-    Backend: NodeJS Express
-    
-    Frentend: React Redux
-    DataBase: Sequelize PostgreSQL
+    #Backend: 
+    NodeJS Express
+    #Frentend: 
+    React Redux
+    #DataBase: 
+    Sequelize PostgreSQL
 
 ### 📫Contáctame:
    - ![dev.to badge](https://img.shields.io/badge/Email-mail) leoneldboccanfuso@hotmail.com
