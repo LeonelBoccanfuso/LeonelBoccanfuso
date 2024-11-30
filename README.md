@@ -5,6 +5,14 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 
 ---
 
+### 📫Contáctame:
+   - ![dev.to badge](https://img.shields.io/badge/Email-mail) leoneldboccanfuso@hotmail.com
+   - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/leonel-boccanfuso/
+   - Móvil: +54 0223 513-6385
+   - WhatsApp: https://wa.link/nmdkw1
+
+---
+
 ### Conocimientos:
 
 <div align="center">
@@ -46,11 +54,7 @@ Decidi dedicarme a programar porque me encanta y siempre estoy dispuesto a apren
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
-### 📫Contáctame:
-   - ![dev.to badge](https://img.shields.io/badge/Email-mail) leoneldboccanfuso@hotmail.com
-   - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/leonel-boccanfuso/
-   - Móvil: +54 0223 513-6385
-   - WhatsApp: https://wa.link/nmdkw1
+
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
