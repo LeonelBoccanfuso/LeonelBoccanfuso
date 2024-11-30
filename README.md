@@ -19,7 +19,7 @@ JavaScript |
 Base de datos
 
 ### 📫Contáctame:
-   - ![Email Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Punkneloficial@gmail.com) leoneldboccanfuso@hotmail.com
+   - ![Email Badge](https://img.shields.io/badge/E-mail) leoneldboccanfuso@hotmail.com
    - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/leonel-boccanfuso/
    - Móvil: +54 0223 513-6385
    - WhatsApp: https://wa.link/nmdkw1
